@@ -5,4 +5,4 @@
 - 💬 Ask me about: My dog.
 - 📫 How to reach me: Call me Giovanni.
 - 😄 Pronouns: Hell/naw.
-- ⚡ Fun fact: Giovanni Mucciaccia of used sharp scissors.
+- ⚡ Fun fact: Giovanni Mucciaccia often used sharp scissors.
