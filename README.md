@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on: Taking a degree in computer science.
-- 🌱 I’m currently learning: C#.
+- 🌱 I’m currently learning: Web design.
 - 💬 Ask me about: My doggos.
 - 📫 How to reach me: Call me Ermenegildo.
-- 😄 Pronouns: Hell/naw.
 - ⚡ Fun fact: Giovanni Mucciaccia often used sharp scissors.
 
 ### 🔭 Development Stats
