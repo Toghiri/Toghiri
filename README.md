@@ -5,7 +5,7 @@
 - 💬 Ask me about: My doggos.
 - 📫 How to reach me: Call me Ermenegildo.
 - ⚡ Fun fact: Giovanni Mucciaccia often used sharp scissors.<br>&nbsp;
-- 📊 This profile has been visited:<br>
+- 📊 This profile has been visited:<br><br>
   &nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=Toghiri&style=for-the-badge&label=VIEWS)
 
 
