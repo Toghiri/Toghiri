@@ -9,7 +9,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=Toghiri&style=for-the-badge&label=VIEWS)
 
 
-# 🔭 Development Stats
+# 🔭 Development Stats & Contacts
 
 General Stats             |  Language Stats
 :-------------------------:|:-------------------------:
