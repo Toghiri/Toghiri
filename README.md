@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on: Improving my website.
-- 🌱 I’m currently learning: JavaScript.
+- 🌱 I’m currently learning: Godot Engine.
 - 💬 Ask me about: My doggos.
 - 📫 How to reach me: Call me Ermenegildo.
 - ⚡ Fun fact: Giovanni Mucciaccia often used sharp scissors.<br>&nbsp;
