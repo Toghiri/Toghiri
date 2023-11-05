@@ -1,8 +1,9 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on: Improving my website.
-- 🌱 I’m currently learning: Godot Engine.
+- 🔭 I’m currently working on: Having a job.
+- 🌱 I’m currently learning: Pyton.
 - 💬 Ask me about: My doggos.
+- 🌐 My website: https://toghiri.github.io/
 - 🎮 My games: https://toghiri.itch.io/
 - 📫 How to reach me: Call me Ermenegildo.
 - ⚡ Fun fact: Giovanni Mucciaccia often used sharp scissors.<br>&nbsp;
