@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on: Having a job.
+- 🔭 I’m currently working on: Developing custom solutions for my company.
 - 🌱 I’m currently learning: Pyton.
 - 💬 Ask me about: My doggos.
 - 🌐 My website: https://toghiri.github.io
