@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: Developing custom solutions for my company.
 - 🌱 I’m currently learning: Pyton.
 - 💬 Ask me about: My doggos.
-- 🌐 My website: https://www.pietrovaccari.it/
+- 🌐 My website: https://www.pietrovaccari.it
 - 🎮 My games: https://toghiri.itch.io
 - 📫 How to reach me: Call me Ermenegildo.
 - ⚡ Fun fact: Giovanni Mucciaccia often used sharp scissors.<br>&nbsp;
